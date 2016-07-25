@@ -3,7 +3,7 @@
 
   "name": "Rack Mini Profiler Extension",
   "description": "A chrome extension to make easier to use Rack Mini Profiler gem on Chrome.",
-  "version": "1.0",
+  "version": "0.1",
   "background": {
     "scripts": [
       "background.js"
